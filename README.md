@@ -50,7 +50,8 @@ the [University of Roma Tor Vergata](http://web.uniroma2.it/home).
 
 **Video**
 
-Please refear to : https://drive.google.com/file/d/1Qi6Gn_l93SzrvmKQQu-drI90L-x8B0ly/view
+Please refear to : [MST-VTT](http://ms-multimedia-challenge.com/2017/dataset)
+
 
 ## Release format
 
