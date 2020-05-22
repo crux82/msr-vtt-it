@@ -47,7 +47,7 @@ To download the MSR-VTT-it dataset, please refer to [this page](https://github.c
 The resource is developed by the [Semantic Analytics Group](http://sag.art.uniroma2.it) of
 the [University of Roma Tor Vergata](http://web.uniroma2.it/home). 
 
-DEFINIRE
+
 **Video**
 
 Please refear to : https://drive.google.com/file/d/1Qi6Gn_l93SzrvmKQQu-drI90L-x8B0ly/view
