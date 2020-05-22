@@ -42,7 +42,7 @@ DEFINIRE
 
 ## Download
 
-To download the MSR-VTT-it dataset, please refer to DEFINIRE
+To download the MSR-VTT-it dataset, please refer to [this page](https://github.com/crux82/msr-vtt-it/tree/master/msr-vtt-it)
 
 The resource is developed by the [Semantic Analytics Group](http://sag.art.uniroma2.it) of
 the [University of Roma Tor Vergata](http://web.uniroma2.it/home). 
