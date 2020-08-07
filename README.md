@@ -50,16 +50,16 @@ If you find MSR-VTT-it useful for your research, please cite the following paper
 
 ## Download
 
-To download the MSR-VTT-it dataset, please refer to DEFINIRE
+To download the MSR-VTT-it dataset, please refer to [this page](https://github.com/crux82/msr-vtt-it/tree/master/msr-vtt-it)
 
 The resource is developed by the [Semantic Analytics Group](http://sag.art.uniroma2.it) of
 the [University of Roma Tor Vergata](http://web.uniroma2.it/home). 
-You can download a copy of the dataset (distributed under the CC BY-SA 4.0 license).
 
-DEFINIRE
+
 **Video**
 
-Please refear to : https://drive.google.com/file/d/1Qi6Gn_l93SzrvmKQQu-drI90L-x8B0ly/view
+Please refear to : [MST-VTT](http://ms-multimedia-challenge.com/2017/dataset)
+
 
 ## Release format
 
