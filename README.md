@@ -22,15 +22,14 @@ from the original full MSR-VTT dataset annotations file, 6,513 videos for traini
 from the original not-full MSR-VTT dataset annotations file, 6,513 videos for training, 497 videos for validation and 100 for testing.
 
 
-More details about MSR-VTT-it can be found in ??????
+More details about MSR-VTT-it can be found at this [link](http://www.ai-lc.it/IJCoL/v5n2/IJCOL_5_2_3___scaiella_et_al.pdf).
 
 
 
 
 ### How to cite MSR-VTT-it
 
-
-If you find MSR-VTT-it useful for your research, please cite the following paper:
+This dataset was introduced in the work *"Large scale datasets for Image and Video Captioning in Italian"* available at the following [link](http://www.ai-lc.it/IJCoL/v5n2/IJCOL_5_2_3___scaiella_et_al.pdf). If you find MSR-VTT-it useful for your research, please cite the following paper:
 
 ~~~~
 @article{IJCOL:scaiella_et_al:2019,
@@ -131,5 +130,3 @@ https://doi.org/10.1109/CVPR.2016.571
 ## Contacts
 
 For any questions or suggestions, you can send an e-mail to <croce@info.uniroma2.it>
-
-More details will be also added to
