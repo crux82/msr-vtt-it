@@ -33,10 +33,18 @@ More details about MSR-VTT-it can be found in ??????
 If you find MSR-VTT-it useful for your research, please cite the following paper:
 
 ~~~~
-
-
-DEFINIRE
-
+@article{IJCOL:scaiella_et_al:2019,
+	author = {Scaiella, Antonio and Croce, Danilo and Basili, Roberto},
+	journal = {Italian Journal of Computational Linguistics},
+	Editor = {Roberto Basili and Simonetta Montemagni},
+	number = 5,
+	pages = {49-60},
+	title = {Large scale datasets for Image and Video Captioning in Italian},
+	publisher = {Accademia University Press},
+	url = {http://www.ai-lc.it/IJCoL/v5n2/IJCOL_5_2_3___scaiella_et_al.pdf},
+	volume = 2,
+	year = 2019
+}
 ~~~~
 
 
