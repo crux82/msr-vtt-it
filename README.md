@@ -47,17 +47,22 @@ This dataset was introduced in the work *"Large scale datasets for Image and Vid
 ~~~~
 
 
-## Download
+## Download the caption
 
-To download the MSR-VTT-it dataset, please refer to [this page](https://github.com/crux82/msr-vtt-it/tree/master/msr-vtt-it)
+To download the captions from the MSR-VTT-it dataset, you just need to clone this repository
+
+```
+git clone https://github.com/crux82/msr-vtt-it.git
+```
 
 The resource is developed by the [Semantic Analytics Group](http://sag.art.uniroma2.it) of
 the [University of Roma Tor Vergata](http://web.uniroma2.it/home). 
 
 
-**Video**
+**Video Download**
 
-Please refear to : [MST-VTT](http://ms-multimedia-challenge.com/2017/dataset)
+MSR-VTT-it only contains the Italian captions. You can download the videos from the original dataset. 
+Please refer to: [MST-VTT](http://ms-multimedia-challenge.com/2017/dataset)
 
 
 ## Release format
